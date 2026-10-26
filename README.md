@@ -60,6 +60,24 @@ A project focused on cyber threat management.
 
 ---
 
+
+
+### 🏥 Hospital Management System — MediCareHub
+
+A Java-based Hospital Management System designed to manage hospital operations through a desktop application.
+
+**Technologies:** Java · Java Swing
+
+**Features:**
+- Patient management
+- Doctor management
+- Appointment management
+- Billing management
+
+🔗 [View MediCareHub Repository](https://github.com/laiibakhan/MediCareHub)
+
+---
+
 ### 💜 My GitHub Profile
 Explore my other repositories and coding projects.
 
