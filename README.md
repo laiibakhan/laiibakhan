@@ -1,3 +1,6 @@
+<div align="center">
+
+![Pastel lavender and pink banner](./banner.png)
 
 # Hi, I'm Laibaa! 💜
 
