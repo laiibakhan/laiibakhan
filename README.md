@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**laiibakhan/laiibakhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Laibaa! 💜
 
-Here are some ideas to get you started:
+### ✨ Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+🎓 Learning programming and software development  
+🐍 Exploring Python and problem-solving  
+☕ Learning Java and Object-Oriented Programming  
+🌱 Building projects and improving my coding skills  
+
+---
+
+### 💻 Languages & Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🌷 My Goals
+
+- Build useful programming projects
+- Learn new technologies
+- Become a better problem solver
+
+---
+
+### 💌 Let's Connect
+
+Thanks for visiting my profile! ✨
