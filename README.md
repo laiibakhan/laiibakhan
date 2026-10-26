@@ -102,7 +102,7 @@ Implementations of trees, graphs, sorting, searching, and other algorithms.
 
 Proud to have completed the AI Skills 4 Women program, gaining academic and practical experience in AI skills.
 
-<img src="./LaibaKhan.png" alt="AI Skills 4 Women Certificate" width="500">
+<img src="./certificate.png" alt="AI Skills 4 Women Certificate" width="500">
 
 **✨ Always learning, always growing! ✨**
 
